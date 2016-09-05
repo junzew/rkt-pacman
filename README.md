@@ -1,4 +1,6 @@
 <p>A simple pacman game written in Racket. </p>
+<div>Screenshot:</div>
+![alt text](https://github.com/junzew/rkt-pacman/raw/master/screenshot.png "rkt-pacman")
 <div>To run the game: </div>
 <ol>
 <li> The pacman.dmg file can be downloaded and run directly on a Mac. </li>
